@@ -1,7 +1,7 @@
 namespace: rbac
 role:
-  name: view-logs-role
+  name: logs-role
 roleBinding:
-  name: view-logs-rolebinding
+  name: logs-rolebinding
   subject:
     name: Eshwanth A G
